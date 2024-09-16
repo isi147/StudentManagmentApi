@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F38A40-6148-4EC9-AB33-F5B18118DD72}|Student_Managment.WebApi\\Student_Managment.WebApi.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.webapi\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F38A40-6148-4EC9-AB33-F5B18118DD72}|Student_Managment.WebApi\\Student_Managment.WebApi.csproj|solutionrelative:student_managment.webapi\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.persistence\\services\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|solutionrelative:student_managment.persistence\\services\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.persistence\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|solutionrelative:student_managment.persistence\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.persistence\\configurations\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|solutionrelative:student_managment.persistence\\configurations\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.persistence\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|solutionrelative:student_managment.persistence\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagment/True/SqlTable/dbo.GroupLesson.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagment/True/SqlTable/dbo.Groups.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagment/True/SqlTable/dbo.Lessons.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Migrations\\20240915150255_mig_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student_Managment.Persistence\\Migrations\\20240915150255_mig_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.persistence\\configurations\\examconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|solutionrelative:student_managment.persistence\\configurations\\examconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.persistence\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|solutionrelative:student_managment.persistence\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.persistence\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|solutionrelative:student_managment.persistence\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7521B5-C7DE-4D09-BF27-B2929CD7A837}|Student_Managment.Aplication\\Student_Managment.Aplication.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.aplication\\repositories\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7521B5-C7DE-4D09-BF27-B2929CD7A837}|Student_Managment.Aplication\\Student_Managment.Aplication.csproj|solutionrelative:student_managment.aplication\\repositories\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Migrations\\20240915144840_mig_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student_Managment.Persistence\\Migrations\\20240915144840_mig_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.persistence\\migrations\\20240914111208_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|solutionrelative:student_managment.persistence\\migrations\\20240914111208_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.persistence\\context\\studentmanagmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|solutionrelative:student_managment.persistence\\context\\studentmanagmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F38A40-6148-4EC9-AB33-F5B18118DD72}|Student_Managment.WebApi\\Student_Managment.WebApi.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F38A40-6148-4EC9-AB33-F5B18118DD72}|Student_Managment.WebApi\\Student_Managment.WebApi.csproj|solutionrelative:student_managment.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F38A40-6148-4EC9-AB33-F5B18118DD72}|Student_Managment.WebApi\\Student_Managment.WebApi.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8F38A40-6148-4EC9-AB33-F5B18118DD72}|Student_Managment.WebApi\\Student_Managment.WebApi.csproj|solutionrelative:student_managment.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.persistence\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|solutionrelative:student_managment.persistence\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.persistence\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|solutionrelative:student_managment.persistence\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.persistence\\services\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618CCC29-7847-4A17-A2D8-DDEEEC006270}|Student_Managment.Persistence\\Student_Managment.Persistence.csproj|solutionrelative:student_managment.persistence\\services\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7521B5-C7DE-4D09-BF27-B2929CD7A837}|Student_Managment.Aplication\\Student_Managment.Aplication.csproj|c:\\users\\atamoghlanov_j\\desktop\\student_managmen\\student_managment.aplication\\dtos\\updateexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7521B5-C7DE-4D09-BF27-B2929CD7A837}|Student_Managment.Aplication\\Student_Managment.Aplication.csproj|solutionrelative:student_managment.aplication\\dtos\\updateexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.WebApi\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "Student_Managment.WebApi\\Controllers\\LessonController.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.WebApi\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "Student_Managment.WebApi\\Controllers\\LessonController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:04:49.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Configurations\\GroupConfiguration.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Configurations\\GroupConfiguration.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Configurations\\GroupConfiguration.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Configurations\\GroupConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:02:33.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Configurations\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Configurations\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Configurations\\StudentConfiguration.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Configurations\\StudentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:02:31.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LessonConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Configurations\\LessonConfiguration.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Configurations\\LessonConfiguration.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Configurations\\LessonConfiguration.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Configurations\\LessonConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:02:17.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LessonService.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Services\\LessonService.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Services\\LessonService.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Services\\LessonService.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Services\\LessonService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAArwDQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:44:32.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Lessons [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagment/True/SqlTable/dbo.Lessons.sql",
+              "ToolTip": "dbo.Lessons [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T15:04:11.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\ServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\ServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\ServiceRegistrations.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\ServiceRegistrations.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAxwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:48:05.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240915150255_mig_3.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Migrations\\20240915150255_mig_3.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Migrations\\20240915150255_mig_3.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Migrations\\20240915150255_mig_3.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Migrations\\20240915150255_mig_3.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:02:55.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.GroupLesson [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagment/True/SqlTable/dbo.GroupLesson.sql",
+              "ToolTip": "dbo.GroupLesson [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T15:04:18.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Repositories\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Repositories\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Repositories\\GroupRepository.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Repositories\\GroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:55:51.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Groups [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagment/True/SqlTable/dbo.Groups.sql",
+              "ToolTip": "dbo.Groups [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T15:00:58.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Aplication\\Repositories\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Aplication\\Repositories\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Aplication\\Repositories\\IGroupRepository.cs",
+              "RelativeToolTip": "Student_Managment.Aplication\\Repositories\\IGroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:55:25.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240914111208_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Migrations\\20240914111208_mig_1.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Migrations\\20240914111208_mig_1.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Migrations\\20240914111208_mig_1.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Migrations\\20240914111208_mig_1.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAowKgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:50:10.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExamConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Configurations\\ExamConfiguration.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Configurations\\ExamConfiguration.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Configurations\\ExamConfiguration.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Configurations\\ExamConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:02:35.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240915144840_mig_2.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Migrations\\20240915144840_mig_2.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Migrations\\20240915144840_mig_2.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Migrations\\20240915144840_mig_2.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Migrations\\20240915144840_mig_2.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowDgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:48:41.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentManagmentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Context\\StudentManagmentDbContext.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Context\\StudentManagmentDbContext.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Context\\StudentManagmentDbContext.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Context\\StudentManagmentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:48:01.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Student_Managment.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.WebApi\\appsettings.json",
+              "RelativeToolTip": "Student_Managment.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T14:47:45.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Services\\StudentService.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Services\\StudentService.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwFkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:46:41.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Student_Managment.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.WebApi\\Program.cs",
+              "RelativeToolTip": "Student_Managment.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:38:16.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Services\\GroupService.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Services\\GroupService.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Services\\GroupService.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Services\\GroupService.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwFgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:44:17.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateExamDto.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Aplication\\Dtos\\UpdateExamDto.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Aplication\\Dtos\\UpdateExamDto.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Aplication\\Dtos\\UpdateExamDto.cs",
+              "RelativeToolTip": "Student_Managment.Aplication\\Dtos\\UpdateExamDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:43:41.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExamService.cs",
+              "DocumentMoniker": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Services\\ExamService.cs",
+              "RelativeDocumentMoniker": "Student_Managment.Persistence\\Services\\ExamService.cs",
+              "ToolTip": "C:\\Users\\atamoghlanov_j\\Desktop\\Student_Managmen\\Student_Managment.Persistence\\Services\\ExamService.cs",
+              "RelativeToolTip": "Student_Managment.Persistence\\Services\\ExamService.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwGoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:39:30.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
